@@ -3,6 +3,7 @@
 - This Power BI project presents an in-depth comparison of technological advancements in China and Japan across core sectors, including artificial intelligence, robotics, telecommunications, and clean energy.
 - Below are the details and functionalities of the dashboard.
 
+![Screenshot 2024-10-28 122019](https://github.com/user-attachments/assets/56d900ae-7953-4b34-b5bd-e5722712bb97)
 _____________________________________________________________________________________________________________________________________________________________
   Project Objective
 - This dashboard provides a detailed analysis of technology-driven developments in Japan and China, highlighting sectoral progress and key differences between the two countries.
